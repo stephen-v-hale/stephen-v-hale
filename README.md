@@ -42,12 +42,3 @@ I don’t want to “just code”.
 
 I want to **understand systems** deeply  
 and then build things that help others understand them too.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephen-v-hale&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-v-hale&layout=compact&theme=transparent" />
-</p>
